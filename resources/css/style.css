@@ -6,11 +6,11 @@ body {
     background-color: black;
 }
 
-h1 {
+.title {
     font-size: 50px;
 }
 
-h2 {
+.subtitle {
     font-weight: 300;
     font-size: 42px;
 }
@@ -24,6 +24,7 @@ a {
     font-size: 16px;
 }
 
-h3 {
+.copyright {
     text-align: right;
+    color: gray;
 }
