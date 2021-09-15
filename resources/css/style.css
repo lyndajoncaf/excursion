@@ -8,6 +8,7 @@ body {
 
 .title {
     font-size: 50px;
+    font-weight: normal;
 }
 
 .subtitle {
@@ -17,6 +18,7 @@ body {
 
 .description {
     font-size: 21px;
+    color: gray;
 }
 
 a {
@@ -27,4 +29,6 @@ a {
 .copyright {
     text-align: right;
     color: gray;
+    font-size: 21px;
+    font-weight: normal;
 }
